@@ -172,16 +172,16 @@ describe('User Endpoints', function () {
           name: 'test name',
         }
         const expectedList = {
-          name: 'French',
+          name: 'Creole',
           total_score: 0,
           words: [
-            { original: 'entraine toi', translation: 'practice' },
-            { original: 'bonjour', translation: 'hello' },
-            { original: 'maison', translation: 'house' },
-            { original: 'développeur', translation: 'developer' },
-            { original: 'traduire', translation: 'translate' },
-            { original: 'incroyable', translation: 'amazing' },
-            { original: 'chien', translation: 'dog' },
+            { original: 'pratik', translation: 'practice' },
+            { original: 'bonjou', translation: 'hello' },
+            { original: 'kay', translation: 'house' },
+            { original: 'pwomotè', translation: 'developer' },
+            { original: 'tradwi', translation: 'translate' },
+            { original: 'etonan', translation: 'amazing' },
+            { original: 'chen', translation: 'dog' },
             { original: 'chat', translation: 'cat' },
           ]
         }
